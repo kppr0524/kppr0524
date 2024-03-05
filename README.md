@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kppr0524
 - 👀 I’m interested in develop and learn more every day...
-- 🌱 I’m currently learning ...PHP, LARAVEL, HTML, JSON, CSS, JAVASCRIPT, BOOSTRAP, ANGULAR, NODEJS AND MONGODB.
+- 🌱 I’m currently learning ...PHP, LARAVEL, HTML, CSS, JAVASCRIPT, VUEJS, ANGULAR, NODEJS AND MYSQL.
 - 💞️ I’m looking to collaborate on web development projects...
 
 <!---
